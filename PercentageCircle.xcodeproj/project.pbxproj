@@ -16,6 +16,7 @@
 		D0357429275310B5004B9E39 /* PercentageCircleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0357428275310B5004B9E39 /* PercentageCircleTests.swift */; };
 		D0357433275310B5004B9E39 /* PercentageCircleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0357432275310B5004B9E39 /* PercentageCircleUITests.swift */; };
 		D0357435275310B5004B9E39 /* PercentageCircleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0357434275310B5004B9E39 /* PercentageCircleUITestsLaunchTests.swift */; };
+		D0357442275311DA004B9E39 /* CircleDrag.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0357441275311DA004B9E39 /* CircleDrag.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D035742E275310B5004B9E39 /* PercentageCircleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PercentageCircleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0357432275310B5004B9E39 /* PercentageCircleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PercentageCircleUITests.swift; sourceTree = "<group>"; };
 		D0357434275310B5004B9E39 /* PercentageCircleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PercentageCircleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		D0357441275311DA004B9E39 /* CircleDrag.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleDrag.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				D0357411275310B2004B9E39 /* AppDelegate.swift */,
 				D0357413275310B2004B9E39 /* SceneDelegate.swift */,
 				D0357415275310B2004B9E39 /* ViewController.swift */,
+				D0357441275311DA004B9E39 /* CircleDrag.swift */,
 				D0357417275310B2004B9E39 /* Main.storyboard */,
 				D035741A275310B4004B9E39 /* Assets.xcassets */,
 				D035741C275310B4004B9E39 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				D0357416275310B2004B9E39 /* ViewController.swift in Sources */,
 				D0357412275310B2004B9E39 /* AppDelegate.swift in Sources */,
 				D0357414275310B2004B9E39 /* SceneDelegate.swift in Sources */,
+				D0357442275311DA004B9E39 /* CircleDrag.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
